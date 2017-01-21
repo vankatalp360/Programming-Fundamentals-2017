@@ -6,20 +6,20 @@ namespace _11.Convert_Speed_Units
     {
         static void Main()
         {
-            int meters = int.Parse(Console.ReadLine());
-            int hours = int.Parse(Console.ReadLine());
-            int minutes = int.Parse(Console.ReadLine());
-            int seconds = int.Parse(Console.ReadLine());
+            uint meters = UInt32.Parse(Console.ReadLine());
+            byte hours = byte.Parse(Console.ReadLine());
+            byte minutes = byte.Parse(Console.ReadLine());
+            byte seconds = byte.Parse(Console.ReadLine());
 
-            int time = hours * 3600 + minutes * 60 + seconds;
+            ushort time = (ushort)(hours * 3600 + minutes * 60 + seconds);
 
-            double metersPerSec = (double)meters / time;
-            double kilometersPerHour = ((double)meters / 1000) / ((double)time / 3600);
-            double milesPerHour = ((double)meters / 1609) / ((double)time / 3600);
+            float metersPerSec = (float)meters / time;
+            float kilometersPerHour = ((float)meters / 1000) / ((float)time / 3600);
+            float milesPerHour = ((float)meters / 1609) / ((float)time / 3600);
 
-            Console.WriteLine("{0:F6}", metersPerSec);
-            Console.WriteLine("{0:F6}", kilometersPerHour);
-            Console.WriteLine("{0:F6}", milesPerHour);
+            Console.WriteLine("{0:0.#######}", metersPerSec);
+            Console.WriteLine("{0:0.#######}", kilometersPerHour);
+            Console.WriteLine("{0:0.#######}", milesPerHour);
         }
     }
 }
