@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Remove Elements at Odd Positions", "01. Remove Elements at Odd Positions\01. Remove Elements at Odd Positions.csproj", "{876B8933-9BB9-43B3-9B04-2E3052993F3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Track Downloader", "02. Track Downloader\02. Track Downloader.csproj", "{854CEE3D-60EA-44C7-B052-111F0BE39187}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Equal Sum After Extraction", "03. Equal Sum After Extraction\03. Equal Sum After Extraction.csproj", "{AEEB5CA9-94A5-4B3C-AD1A-9DECD83D8308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Flip List Sides", "04. Flip List Sides\04. Flip List Sides.csproj", "{B5EC9386-2802-48A3-B089-FAA117041AA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Tear List in Half", "05. Tear List in Half\05. Tear List in Half.csproj", "{57FD97B6-8B52-45E5-BDF3-952E39105E08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Stuck Zipper", "06. Stuck Zipper\06. Stuck Zipper.csproj", "{8DAE63D4-F266-4444-918A-C63767CAE7F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{876B8933-9BB9-43B3-9B04-2E3052993F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{876B8933-9BB9-43B3-9B04-2E3052993F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{876B8933-9BB9-43B3-9B04-2E3052993F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{876B8933-9BB9-43B3-9B04-2E3052993F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{854CEE3D-60EA-44C7-B052-111F0BE39187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{854CEE3D-60EA-44C7-B052-111F0BE39187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{854CEE3D-60EA-44C7-B052-111F0BE39187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{854CEE3D-60EA-44C7-B052-111F0BE39187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEEB5CA9-94A5-4B3C-AD1A-9DECD83D8308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEEB5CA9-94A5-4B3C-AD1A-9DECD83D8308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEEB5CA9-94A5-4B3C-AD1A-9DECD83D8308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEEB5CA9-94A5-4B3C-AD1A-9DECD83D8308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5EC9386-2802-48A3-B089-FAA117041AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EC9386-2802-48A3-B089-FAA117041AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EC9386-2802-48A3-B089-FAA117041AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EC9386-2802-48A3-B089-FAA117041AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57FD97B6-8B52-45E5-BDF3-952E39105E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57FD97B6-8B52-45E5-BDF3-952E39105E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57FD97B6-8B52-45E5-BDF3-952E39105E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57FD97B6-8B52-45E5-BDF3-952E39105E08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DAE63D4-F266-4444-918A-C63767CAE7F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DAE63D4-F266-4444-918A-C63767CAE7F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DAE63D4-F266-4444-918A-C63767CAE7F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DAE63D4-F266-4444-918A-C63767CAE7F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
