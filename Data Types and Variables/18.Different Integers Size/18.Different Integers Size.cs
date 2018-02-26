@@ -8,6 +8,10 @@ namespace _18.Different_Integers_Size
         static void Main(string[] args)
         {
             BigInteger number = BigInteger.Parse(Console.ReadLine());
+            if (number >= long.MinValue && number <= long.MaxValue)
+            {
+                Console.WriteLine($"{number} can fit in:");
+            }
             if (number >= sbyte.MinValue && number <= sbyte.MaxValue)
             {
                 Console.WriteLine("* sbyte");

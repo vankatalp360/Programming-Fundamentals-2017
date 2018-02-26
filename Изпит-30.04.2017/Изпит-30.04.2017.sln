@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Worm Ipsum", "02. Worm Ipsum\02. Worm Ipsum.csproj", "{E2A3BF05-F4D3-4532-BE96-768A0B90C1B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Wormhole", "03. Wormhole\03. Wormhole.csproj", "{8FDB0E2E-296B-4655-BDF4-ACC7E3E848A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Worms World Party", "04. Worms World Party\04. Worms World Party.csproj", "{80AAD037-BC16-4A17-80DF-662BCCF5046B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2A3BF05-F4D3-4532-BE96-768A0B90C1B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A3BF05-F4D3-4532-BE96-768A0B90C1B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A3BF05-F4D3-4532-BE96-768A0B90C1B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A3BF05-F4D3-4532-BE96-768A0B90C1B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FDB0E2E-296B-4655-BDF4-ACC7E3E848A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FDB0E2E-296B-4655-BDF4-ACC7E3E848A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FDB0E2E-296B-4655-BDF4-ACC7E3E848A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FDB0E2E-296B-4655-BDF4-ACC7E3E848A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80AAD037-BC16-4A17-80DF-662BCCF5046B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80AAD037-BC16-4A17-80DF-662BCCF5046B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80AAD037-BC16-4A17-80DF-662BCCF5046B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80AAD037-BC16-4A17-80DF-662BCCF5046B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
